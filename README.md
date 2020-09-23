@@ -1,4 +1,6 @@
 # Maternal Gut Microbiota Reflecting Poor Diet Quality Predicts Spontaneous Preterm Birth in a Prospective Cohort Study 
+
+## Introduction
 A processed, Western diet, high in fat and low in fiber is associated with differences in the gut microbiota and adverse health outcomes in humans; however, little is known about the diet-microbiota relationship and its impact on pregnancy. Spontaneous preterm birth (SPTB), a pregnancy outcome with serious short-and long-term consequences, occurs more frequently in Black and in obese women in the U.S. 
 \
 In a prospective, case-control sample matched for race and obesity (cases=16, controls=32), we compared the fecal gut microbiota, fecal and plasma metabolites, and diet in the late second trimester. We hypothesized that a Western diet would be associated with reduced microbiota richness and a metabolic signature predicting incidence of SPTB. 
