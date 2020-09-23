@@ -8,7 +8,7 @@ In a prospective, case-control sample matched for race and obesity (cases=16, co
 The fecal microbiota was characterized by 16S-tagged sequencing and untargeted metabolomics was used to analyze both plasma and fecal metabolites. The Wilcoxon rank-sum test was used for the comparison of microbiota genera, α-diversity, fecal and plasma metabolites, and dietary variables between term and SPTB. Beta-diversity was analyzed using PERMANOVA, and metabolite associations were assessed by module analysis.
 
 ## Publication
-leave it BLANK 
+-LEAVE BLANK UNTIL PUBLISHED.
 
 ## Data availability
 - The 16s rRNA microbiome, stool and plasma metabolomics, and dietary data are available to download.
