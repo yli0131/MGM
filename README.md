@@ -10,6 +10,9 @@ The fecal microbiota was characterized by 16S-tagged sequencing and untargeted m
 ## Publication
 leave it BLANK 
 
-## Software
+## Data availability
+- The 16s rRNA microbiome, stool and plasma metabolomics, and dietary data are available to download.
+
+## Method
 - The stool samples were assayed for gut microbial identity using 16S tagged gene sequencing processed by QIIME2, including de-multiplexing, quality control, OUT identification, and taxonomic assignment.
 - All statistical analyses were performed using R version 3.5.1. The QIIME2 output was imported into R via R package qiime2R. The stool metabolomics module analysis was implemented using R package WGCNA with compatible R version.
