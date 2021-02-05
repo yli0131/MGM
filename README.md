@@ -8,7 +8,7 @@ In a prospective, case-control sample matched for race and obesity (cases=16, co
 The fecal microbiota was characterized by 16S-tagged sequencing and untargeted metabolomics was used to analyze both plasma and fecal metabolites. The Wilcoxon rank-sum test was used for the comparison of microbiota genera, α-diversity, fecal and plasma metabolites, and dietary variables between term and SPTB. Beta-diversity was analyzed using PERMANOVA, and metabolite associations were assessed by module analysis.
 
 ## Publication
-- LEAVE BLANK UNTIL PUBLISHED.
+- Maternal gut microbiota reflecting poor diet quality is associated with spontaneous preterm birth in a prospective cohort study(https://doi.org/10.1093/ajcn/nqaa361)
 
 ## Data availability
 The following data is availble to download:
